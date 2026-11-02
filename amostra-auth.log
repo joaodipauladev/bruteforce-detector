@@ -1,0 +1,12 @@
+Nov  1 20:15:01 servidor sshd[1201]: Accepted password for joao from 198.51.100.10 port 51000 ssh2
+Nov  1 20:16:10 servidor sshd[1210]: Failed password for root from 203.0.113.45 port 40001 ssh2
+Nov  1 20:16:11 servidor sshd[1211]: Failed password for invalid user admin from 203.0.113.45 port 40002 ssh2
+Nov  1 20:16:12 servidor sshd[1212]: Failed password for invalid user ubuntu from 203.0.113.45 port 40003 ssh2
+Nov  1 20:16:13 servidor sshd[1213]: Failed password for invalid user test from 203.0.113.45 port 40004 ssh2
+Nov  1 20:16:14 servidor sshd[1214]: Failed password for root from 203.0.113.45 port 40005 ssh2
+Nov  1 20:16:15 servidor sshd[1215]: Failed password for invalid user oracle from 203.0.113.45 port 40006 ssh2
+Nov  1 20:17:30 servidor sshd[1220]: Failed password for joao from 198.51.100.10 port 51010 ssh2
+Nov  1 20:17:40 servidor sshd[1221]: Accepted password for joao from 198.51.100.10 port 51011 ssh2
+Nov  1 20:18:02 servidor sshd[1230]: Failed password for root from 203.0.113.99 port 42000 ssh2
+Nov  1 20:18:03 servidor sshd[1231]: Failed password for root from 203.0.113.99 port 42001 ssh2
+Nov  1 20:18:04 servidor sshd[1232]: Accepted password for root from 203.0.113.99 port 42002 ssh2
